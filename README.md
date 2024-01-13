@@ -1,3 +1,5 @@
+Competition.py is the final and latest project I did from the Data Mining course. There is a description on competition.py file's code
+
 **Environment Setup and Data Preprocessing:**
 
 You initialize a Spark context and set the logging level to "ERROR" to reduce log noise.
